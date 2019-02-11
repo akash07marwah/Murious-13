@@ -1,0 +1,87 @@
+#buttonsss{
+  display: flex;
+  margin-left : -10px;
+  margin-top : 140px;
+  /* border : 2px solid white; */
+  /* transform: translate(-50%,-50%); */
+}
+#buttonsss1{
+  background-color: rgba(6, 12, 34, 0.98);
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 32px;
+  border-radius: 50px;
+  transition: 0.5s;
+  line-height: 1;
+  margin: 10px;
+  color: #fff;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  border: 2px solid #f82249;
+  /* position: absolute; */
+  /* bottom: 50%; */
+}
+#buttonsss1:hover{
+  cursor: pointer;
+  background-color: #cc1b2c;
+}
+
+#hotels .about-btn:hover {
+  background: #f82249;
+  color: #fff;
+}
+
+
+*{
+  margin:0;
+}
+#intro .intro-container .bg-cd{
+  /* background-image: url("bg-img.png"); */
+  width:100%;
+}
+#intro .intro-container .countdown_container{
+}
+.countdown_container table{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 40px;
+  display:flex;
+   flex-direction: column;
+  align-items: center;
+  color: white;
+    /* border: 3px solid #f82249; */
+}
+
+td{
+  /* background-color: #f82249; */
+  /* border: 3px solid #f82249; */
+  border-radius:  10px;
+  width: 130px;
+  height:50px;
+}
+
+
+#myModal{
+  background-color: #000;
+}
+.header{
+  height: 100px;
+  width: 100%;
+}
+.modal-header h1{
+  color:#003366;
+  padding: 2px 2px 2px 2px;
+  text-shadow:2px #008080;
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+}
+.modal-header h1{
+  font-family: 'Work Sans', sans-serif;
+}
+#img{
+}
+#rules{
+  color:#A9A9A9;
+}
